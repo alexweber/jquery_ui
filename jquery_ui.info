@@ -1,0 +1,8 @@
+name = jQuery UI
+description = Provides the jQuery UI plug-in to other Drupal modules.
+package = User interface
+core = 6.x
+
+version = "6.x-2"
+core = "6.x"
+project = "jquery_ui"
